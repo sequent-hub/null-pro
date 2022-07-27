@@ -1,0 +1,16 @@
+{
+    "name": "seque/null-pro",
+    "description": "This  is empty test php project",
+    "autoload": {
+        "psr-4": {
+            "Seque\\NullPro\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "sequent-hub",
+            "email": "sequent@list.ru"
+        }
+    ],
+    "require": {}
+}
